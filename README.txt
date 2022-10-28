@@ -1,0 +1,1 @@
+It't practice of solidity.
